@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/samirsingh/Documents/My project/C Programming/folder/factorial'
+relocations:     []
+...
