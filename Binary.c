@@ -22,6 +22,7 @@ int main()
         else if(array[middle]==search)
         {
             printf("Element found at position %d",middle+1);
+            
             break;
         }
         else if(array[middle]>search)
